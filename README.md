@@ -18,7 +18,7 @@ With features like real-time budget tracking, family account collaboration, inte
 
 1. **SigninPage/SignupPage**
 
-- **Functionality**: Require sign-in or sign-up for secure cloud storage of bill data. Collect personal details like age, gender, occupation, income sources, and financial goals to enable personalized financial advice from the AI bot.
+- **Functionality**: Require sign-in or sign-up for secure cloud storage of bill data. Collect personal details like age, gender, occupation, income sources, and financial goals to enable personalized financial advice from the AI bot. During registration, users can also choose a Family Account option, which allows them to invite family members via a QR code to collaborate on shared financial management.
 
 2. **HomePage**
 
