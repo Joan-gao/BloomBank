@@ -131,10 +131,12 @@ flask --app api run
 
 ## Links
 
-- ([Demo Video](https://youtu.be/8D57UD3cWfo?si=xhHj6ELR5Tlrhy4y))
+- ([Demo Video]())
+- ([Devpost]())
 
 ## Contributors
 
-- **Xinyi Gao** [[Linkedin](https://www.linkedin.com/in/xinyi-gao-cn/)][[GitHub](https://github.com/Joan-gao)]: Product Design, UI/UX Design, Full-stack Development
+- **Joan Gao** [[Linkedin](https://www.linkedin.com/in/xinyi-gao-cn/)][[GitHub](https://github.com/Joan-gao)]: Product Design, UI/UX Design, Full-stack Development
 - **Li Cui** [[Linkedin](https://www.linkedin.com/in/li-cui-73809027b)][[GitHub](https://github.com/amandaliberaann)]: Full-Stack Development, Database Management
 - **Jiacheng Li** [[Linkedin](https://www.linkedin.com/in/jiacheng-li-b17b41242/)][[GitHub](https://github.com/ljc0359)]: AI Fine-Tuning, Backend Development
+- **Mustang Wu** [[Linkedin](https://linkedin.com/in/mustang-wu-10ab0520b/)]: Product Design, Full-stack Development
