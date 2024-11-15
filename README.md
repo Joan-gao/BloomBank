@@ -1,4 +1,4 @@
-<h1 align="center"> BloomBank: Empowering Financial Independence for All 🔆♻️ </h1>
+<h1 align="center"> BloomBank: Empowering Financial Independence for All 💸♻️ </h1>
 
 ## **Introduction**
 BloomBank is an AI-powered financial management platform designed to empower individuals and families by simplifying budgeting, enhancing financial literacy, and fostering charitable giving. By aligning with the United Nations Sustainable Development Goals (SDGs) such as No Poverty (SDG 1), Quality Education (SDG 4), and Reduced Inequalities (SDG 10), BloomBank offers accessible, intelligent tools to bridge the gap in financial literacy and promote equitable economic opportunities.
