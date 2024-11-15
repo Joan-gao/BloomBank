@@ -1,8 +1,8 @@
-<h1 align="center">Doggle: Your Best AI Personal Finance helper🐶✨</h1>
+<h1 align="center">BloomBank: xxxxx</h1>
 
 ## **Introduction**
 
-This project developed an AI-powered web app for managing personal finances, featuring intuitive visual displays and an AI chatbot designed as a playful bookkeeping puppy. The chatbot supports voice, text, image, and file inputs, using finetuned Gemini APIs for bill processing and personalized financial advice. This app enhances traditional budgeting tools, making them faster, smarter, and more personalized with advanced AI.
+
 
 ## **Technologies Use**
 1. **Frontend**: React, JavaScript
@@ -30,9 +30,13 @@ This project developed an AI-powered web app for managing personal finances, fea
 
 - **Functionality**: Display daily transaction data. By selecting a specific date on the calendar, users can view all income and expenses for that day in a table format, with options to modify or delete individual entries.
 
-5. **ChatbotPage**
+5. **DonationPage**
 
-- **Functionality**: Offer an AI chatbot puppy for handling common FAQs, voice and text bill data inputs, image and file uploads, and understanding. Utilize finetuned Gemini APIs for chatbot style setting, processing, and CRUD operations, while providing personalized financial advice.
+- **Functionality**: Provides donation options and free finance learning resources. Users can view monthly donations and access courses to build financial literacy.
+
+6. **ChatbotPage**
+
+- **Functionality**: Customizable AI chatbot for FAQs, bill data input, and file uploads. Users can personalize their chatbot with integrations (e.g., Google Drive, Notion) to import relevant documents. Finetuned Gemini APIs provide chatbot settings and personalized financial advice.
 
 ## Technical Highlights
 
@@ -40,9 +44,9 @@ This project developed an AI-powered web app for managing personal finances, fea
 
 2. **Comprehensive Data Visualization**: Offer a clear overview and detailed analysis of income, expenses, and budget trends with dynamic visualizations, allowing easy modifications and management of financial entries by month, year, or day.
 
-3. **AI-Powered Chatbot**: Integrate an AI chatbot using finetuned Gemini models for real-time bill classification and personalized spending suggestions. Through prompt engineering, the chatbot is designed as a cute bookkeeping puppy that uses playful language to reduce financial management stress.
+3. **AI-Powered Chatbot**: Integrate a customized AI chatbot using finetuned Gemini models for real-time bill classification and personalized spending suggestions. Through prompt engineering, the chatbot is designed as a cute bookkeeping puppy that uses playful language to reduce financial management stress.
 
-## Chatbot Use Examples
+## Chatbot Use Examples (puppy version)
 
 1. **Common Q&A**
 - **User: What features does doggle support?**
@@ -75,6 +79,7 @@ This project developed an AI-powered web app for managing personal finances, fea
  - **User: With my current savings, can I save $50,000 in three years?**
  - **Response1**: Yes! You’ve been saving $1,500 each month, so reaching your goal is totally doable. 💰 With your salary increase and lower rent, you might even save more! 💪 You’re on track to meet your goal in three years, woof! 🐶✨
  - **Response2**:  No, even though your salary increased, moving to a pricier city has doubled your expenses. 😥 Your monthly savings have dropped from $1500 to $800. 💸 If this trend continues, it will be tough to reach your goal in three years.  But don't worry, we'll find a way, woof! 🐶✨
+
 
 ## How to Run
 
