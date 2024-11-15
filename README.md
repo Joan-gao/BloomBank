@@ -80,7 +80,6 @@
  - **Response1**: Yes! You’ve been saving $1,500 each month, so reaching your goal is totally doable. 💰 With your salary increase and lower rent, you might even save more! 💪 You’re on track to meet your goal in three years, woof! 🐶✨
  - **Response2**:  No, even though your salary increased, moving to a pricier city has doubled your expenses. 😥 Your monthly savings have dropped from $1500 to $800. 💸 If this trend continues, it will be tough to reach your goal in three years.  But don't worry, we'll find a way, woof! 🐶✨
 
-
 ## How to Run
 
 1. **Frontend**
