@@ -134,7 +134,7 @@ flask --app api run
 ## Links
 
 - ([Demo Video](https://youtu.be/zQMfIDZ4vCg?si=wwHIk0QXNx9T3sgR))
-- ([Biness Plan](https://drive.google.com/file/d/1PhpbM9VifCUh-DzljVw2bDeStQYTY9KG/view))
+- ([Bisness Plan](https://drive.google.com/file/d/1PhpbM9VifCUh-DzljVw2bDeStQYTY9KG/view))
 - ([Devpost](https://devpost.com/software/bloombank))
 
 ## Contributors
