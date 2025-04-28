@@ -6,8 +6,9 @@ BloomBank is an AI-powered financial management platform designed to empower ind
 With features like real-time budget tracking, family account collaboration, interactive education modules, and charitable savings integration, BloomBank addresses diverse financial challenges faced by underserved communities, young professionals, and families worldwide. By leveraging cutting-edge technologies such as Finetuned Gemini APIs and intuitive UI designs, our platform provides personalized advice and actionable insights to help users achieve financial stability and contribute to their communities.
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=zQMfIDZ4vCg" target="_blank">
-    <img src="https://img.youtube.com/vi/zQMfIDZ4vCg/0.jpg" alt="Demo Video" width="480" height="270">
+  <a href="https://www.youtube.com/watch?v=zQMfIDZ4vCg">
+    <img src="https://img.youtube.com/vi/zQMfIDZ4vCg/maxresdefault.jpg" width="600" alt="Demo Video" style="position: relative;">
+    <img src="https://cdn.jsdelivr.net/gh/eddymens/markdown-external/yt-play-button.png" width="70" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);">
   </a>
 </p>
 
