@@ -7,10 +7,17 @@ With features like real-time budget tracking, family account collaboration, inte
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=zQMfIDZ4vCg">
-    <img src="https://img.youtube.com/vi/zQMfIDZ4vCg/maxresdefault.jpg" width="600" alt="Demo Video" style="position: relative;">
-    <img src="https://cdn.jsdelivr.net/gh/eddymens/markdown-external/yt-play-button.png" width="70" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);">
+    <img src="https://img.youtube.com/vi/zQMfIDZ4vCg/maxresdefault.jpg" alt="Demo Video" width="600">
   </a>
 </p>
+
+
+## Links
+
+- ([Demo Video](https://youtu.be/zQMfIDZ4vCg?si=wwHIk0QXNx9T3sgR))
+- ([Bisness Plan](https://drive.google.com/file/d/1PhpbM9VifCUh-DzljVw2bDeStQYTY9KG/view))
+- ([Devpost](https://devpost.com/software/bloombank))
+
 
 ## **Technologies Use**
 1. **Frontend**: React, JavaScript
@@ -137,11 +144,6 @@ pip install -r requirements.txt
 flask --app api run
 ```
 
-## Links
-
-- ([Demo Video](https://youtu.be/zQMfIDZ4vCg?si=wwHIk0QXNx9T3sgR))
-- ([Bisness Plan](https://drive.google.com/file/d/1PhpbM9VifCUh-DzljVw2bDeStQYTY9KG/view))
-- ([Devpost](https://devpost.com/software/bloombank))
 
 ## Contributors
 
